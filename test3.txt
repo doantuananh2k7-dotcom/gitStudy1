@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 3
 k70
+=======
+Doan Tuan Anh
+Doan Tuan Anh
+k70-it6
+>>>>>>> stagging
