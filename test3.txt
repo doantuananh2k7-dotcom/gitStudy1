@@ -6,3 +6,5 @@ Doan Tuan Anh
 Doan Tuan Anh
 k70-it6
 >>>>>>> stagging
+Quan ly dau gia , thiet lap cilecnt
+Xu ly server
